@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/[SU_NOMBRE_DE_USUARIO].github.io/[NOMBRE_DE_REPOSITORIO]/static/js/main.f3b77b3c.chunk.js",
-    "main.js.map": "/[SU_NOMBRE_DE_USUARIO].github.io/[NOMBRE_DE_REPOSITORIO]/static/js/main.f3b77b3c.chunk.js.map",
-    "runtime~main.js": "/[SU_NOMBRE_DE_USUARIO].github.io/[NOMBRE_DE_REPOSITORIO]/static/js/runtime~main.935c6b99.js",
-    "runtime~main.js.map": "/[SU_NOMBRE_DE_USUARIO].github.io/[NOMBRE_DE_REPOSITORIO]/static/js/runtime~main.935c6b99.js.map",
-    "static/js/2.d89a3b7a.chunk.js": "/[SU_NOMBRE_DE_USUARIO].github.io/[NOMBRE_DE_REPOSITORIO]/static/js/2.d89a3b7a.chunk.js",
-    "static/js/2.d89a3b7a.chunk.js.map": "/[SU_NOMBRE_DE_USUARIO].github.io/[NOMBRE_DE_REPOSITORIO]/static/js/2.d89a3b7a.chunk.js.map",
-    "index.html": "/[SU_NOMBRE_DE_USUARIO].github.io/[NOMBRE_DE_REPOSITORIO]/index.html",
-    "precache-manifest.f43979e558fbabd7028503f8405df42f.js": "/[SU_NOMBRE_DE_USUARIO].github.io/[NOMBRE_DE_REPOSITORIO]/precache-manifest.f43979e558fbabd7028503f8405df42f.js",
-    "service-worker.js": "/[SU_NOMBRE_DE_USUARIO].github.io/[NOMBRE_DE_REPOSITORIO]/service-worker.js"
+    "main.js": "/proyecto2-react/static/js/main.b1d98fbd.chunk.js",
+    "main.js.map": "/proyecto2-react/static/js/main.b1d98fbd.chunk.js.map",
+    "runtime~main.js": "/proyecto2-react/static/js/runtime~main.deb0af3d.js",
+    "runtime~main.js.map": "/proyecto2-react/static/js/runtime~main.deb0af3d.js.map",
+    "static/js/2.d89a3b7a.chunk.js": "/proyecto2-react/static/js/2.d89a3b7a.chunk.js",
+    "static/js/2.d89a3b7a.chunk.js.map": "/proyecto2-react/static/js/2.d89a3b7a.chunk.js.map",
+    "index.html": "/proyecto2-react/index.html",
+    "precache-manifest.6bd2090622dac8c220234108e936a5c9.js": "/proyecto2-react/precache-manifest.6bd2090622dac8c220234108e936a5c9.js",
+    "service-worker.js": "/proyecto2-react/service-worker.js"
   }
 }
