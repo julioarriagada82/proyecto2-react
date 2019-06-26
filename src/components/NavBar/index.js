@@ -25,23 +25,23 @@ const NavBar = props => {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav mr-auto">
                         <li className="nav-item">
-                            <NavLink to='/' exact={true} activeClassName="active" className="nav-link">Ir a Home</NavLink>
+                            <NavLink to='/proyecto2-react/' exact={true} activeClassName="active" className="nav-link">Ir a Home</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink to='/characters' exact={true} activeClassName="active" className="nav-link" >Ver Personajes</NavLink>
+                            <NavLink to='/proyecto2-react/characters' exact={true} activeClassName="active" className="nav-link" >Ver Personajes</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink to='/episodes' exact={true} activeClassName="active" className="nav-link" >Ver Episodios</NavLink>
+                            <NavLink to='/proyecto2-react/episodes' exact={true} activeClassName="active" className="nav-link" >Ver Episodios</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink to='/comparisons' exact={true} activeClassName="active" className="nav-link">Comparaciones</NavLink>
+                            <NavLink to='/proyecto2-react/comparisons' exact={true} activeClassName="active" className="nav-link">Comparaciones</NavLink>
                         </li>
                 </ul>
             </div>
             <form className="form-inline" onSubmit={handleSubmit}>
                 <button type='submit' className="btn btn-danger">Logout</button>
             </form>
-            {loggedOut && <Redirect push to="/login"/> }
+            {loggedOut && <Redirect push to="/proyecto2-react/"/> }
         </nav>
     )
   }

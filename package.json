@@ -2,7 +2,7 @@
   "name": "bi-api",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://[SU_NOMBRE_DE_USUARIO].github.io/[NOMBRE_DE_REPOSITORIO]",
+  "homepage": "https://julioarriagada82.github.io/proyecto2-react",
   "dependencies": {
     "axios": "^0.19.0",
     "gh-pages": "^2.0.1",

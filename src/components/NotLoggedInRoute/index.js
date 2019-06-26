@@ -16,7 +16,7 @@ const NotLoggedIn = props => {
         if (!userId) {
           return <Component {...props} />
         } else {
-          return <Redirect to='/' />
+          return <Redirect to='/proyecto2-react/' />
         }
       }}
       {...rest}

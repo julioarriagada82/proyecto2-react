@@ -13,12 +13,12 @@ const Routes = () => {
   return (
     <Router>
       <Switch>
-        <PrivateRoute path='/' exact component={HomePage} />
-        <PrivateRoute path='/characters' exact component={CharactersPage} />
-        <PrivateRoute path='/episodes' exact component={EpisodesPage} />
-        <PrivateRoute path='/comparisons' exact component={ComparisonsPage} />
-        <NotLoggedInRoute path='/login' exact component={LoginPage} />
-        <NotLoggedInRoute exact path='/register' component={RegisterPage} />
+        <PrivateRoute path='/proyecto2-react/' exact component={HomePage} />
+        <PrivateRoute path='/proyecto2-react/characters' exact component={CharactersPage} />
+        <PrivateRoute path='/proyecto2-react/episodes' exact component={EpisodesPage} />
+        <PrivateRoute path='/proyecto2-react/comparisons' exact component={ComparisonsPage} />
+        <NotLoggedInRoute path='/proyecto2-react/login' exact component={LoginPage} />
+        <NotLoggedInRoute exact path='/proyecto2-react/register' component={RegisterPage} />
       </Switch>
     </Router>
   )

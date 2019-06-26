@@ -15,7 +15,7 @@ const PrivateRoute = props => {
         if (userId) {
           return <Component {...props} />
         } else {
-          return <Redirect to='/login' />
+          return <Redirect to='/proyecto2-react/' />
         }
       }}
       {...rest}
