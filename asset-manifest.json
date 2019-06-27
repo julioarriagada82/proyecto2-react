@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/proyecto2-react/static/js/main.cc5f901e.chunk.js",
-    "main.js.map": "/proyecto2-react/static/js/main.cc5f901e.chunk.js.map",
+    "main.js": "/proyecto2-react/static/js/main.c7778607.chunk.js",
+    "main.js.map": "/proyecto2-react/static/js/main.c7778607.chunk.js.map",
     "runtime~main.js": "/proyecto2-react/static/js/runtime~main.deb0af3d.js",
     "runtime~main.js.map": "/proyecto2-react/static/js/runtime~main.deb0af3d.js.map",
     "static/js/2.d89a3b7a.chunk.js": "/proyecto2-react/static/js/2.d89a3b7a.chunk.js",
     "static/js/2.d89a3b7a.chunk.js.map": "/proyecto2-react/static/js/2.d89a3b7a.chunk.js.map",
     "index.html": "/proyecto2-react/index.html",
-    "precache-manifest.5ba19b448c8a411ca597435a96b31df1.js": "/proyecto2-react/precache-manifest.5ba19b448c8a411ca597435a96b31df1.js",
+    "precache-manifest.3ec6a094368db8ec797eff25b8c51623.js": "/proyecto2-react/precache-manifest.3ec6a094368db8ec797eff25b8c51623.js",
     "service-worker.js": "/proyecto2-react/service-worker.js"
   }
 }
